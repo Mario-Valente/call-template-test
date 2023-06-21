@@ -5,7 +5,7 @@ on:
 
 jobs:
   job1:
-     uses: Mario-Valente/template-test/.github/workflows/template.yml@v1
+     uses: Mario-Valente/template-test/.github/workflows/template.yml@main
   
   job2:
    runs-on: ubuntu-latest
